@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\SampleMVCApps\\SampleMVCApps.csproj",
+      "projectUniqueName": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\MySampleMVCApps\\SampleMVCApps.csproj",
       "projectName": "SampleMVCApps",
-      "projectPath": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\SampleMVCApps\\SampleMVCApps.csproj",
+      "projectPath": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\MySampleMVCApps\\SampleMVCApps.csproj",
       "packagesPath": "C:\\Users\\HarmeetSingh.Sekhon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\SampleMVCApps\\obj\\",
+      "outputPath": "C:\\Users\\HarmeetSingh.Sekhon\\POC\\MySampleMVCApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
